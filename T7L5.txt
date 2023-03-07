@@ -87,3 +87,15 @@ e. Ninguna de las respuestas es correcta.
 
 La respuesta es: E. Ninguna de las respuestas es correcta.
 
+#10. Usted está designando un direccionamiento IP para cuatro subredes con la red 
+10.1.1.0, se prevé un crecimiento de una red por año en los próximos cuatro años. 
+¿Cuál será la máscara que permita la mayor cantidad de host? 
+a. 255.0.0.0 
+b. 255.254.0.0 
+c. 255.240.0.0 
+d. 255.255.255.0
+
+a. 11111111.00000000.00000000.00000000
+2^24 - 2 = 1.67 * 10^7 hosts
+La respuesta es: A. 255.0.0.0
+
