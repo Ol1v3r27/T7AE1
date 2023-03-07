@@ -107,3 +107,16 @@ c. dirección = 172.18.32.0, broadcast 172.18.80.255
 d. dirección = 172.18.64.0, broadcast 172.18.71.255
 
 La respuesta es: b. dirección = 172.18.32.0, broadcast 172.18.71.255 
+
+#13. Una red clase B será dividida en 20 subredes a las que se sumaran 30 más en 
+los próximos años ¿Qué máscara se deberá utilizar para obtener un total de 800 
+host por subred? 
+a. 255.248.0.0 
+b. 255.255.252.0 
+c. 255.255.224.0 
+d. 255.255.248.0 
+
+2^10 - 2 = 1022 hosts
+11111111.11111111.//11111100\\.00000000
+La respuesta es: B. 255.255.252.0 
+
