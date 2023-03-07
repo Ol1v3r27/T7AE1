@@ -99,3 +99,11 @@ a. 11111111.00000000.00000000.00000000
 2^24 - 2 = 1.67 * 10^7 hosts
 La respuesta es: A. 255.0.0.0
 
+#12 . A partir de la dirección IP 172.18.71.2 /21 , ¿cuál es la dirección de subred y 
+de broadcast a la que pertenece el host?  
+a. dirección = 172.18.64.0, broadcast 172.18.80.255 
+b. dirección = 172.18.32.0, broadcast 172.18.71.255 
+c. dirección = 172.18.32.0, broadcast 172.18.80.255 
+d. dirección = 172.18.64.0, broadcast 172.18.71.255
+
+La respuesta es: b. dirección = 172.18.32.0, broadcast 172.18.71.255 
