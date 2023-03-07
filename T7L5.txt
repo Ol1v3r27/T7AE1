@@ -133,3 +133,10 @@ d. /24
 Mascara red: 255.255.248.0
 La respuesta es: B. /21 
 
+#15. Cuáles de las siguientes máscaras de red equivale a: /24 
+a. 255.0.0.0 
+b. 224.0.0.0 
+c. 255.255.0.0 
+d. 255.255.255.0
+
+La respuesta es: D. 255.255.255.0
