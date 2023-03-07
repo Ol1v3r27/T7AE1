@@ -140,3 +140,17 @@ c. 255.255.0.0
 d. 255.255.255.0
 
 La respuesta es: D. 255.255.255.0
+
+#16. A partir de la dirección IP 192.168.85.129 /26 , ¿Cuál es la dirección de 
+subred y de broadcast a la que pertenece el host?
+a. dirección = 192.168.85.128, broadcast 192.168.85.255 
+b. dirección = 192.168.84.0, broadcast 192.168.92.255 
+c. dirección = 192.168.85.129, broadcast 192.168.85.224 
+d. dirección = 192.168.85.128, broadcast 192.168.85.191
+
+2^6 - 2 = 62 hosts
+11111111.11111111.11111111.11000000
+Máscara red: 255.255.255.192
+La respuesta es: D. dirección = 192.168.85.128, broadcast 192.168.85.191
+
+
